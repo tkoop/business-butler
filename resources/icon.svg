@@ -8,7 +8,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="icon.svg"
-   inkscape:version="1.0 (1.0+r73+1)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    id="svg8"
    version="1.1"
    viewBox="0 0 210 297"
@@ -33,15 +33,15 @@
      inkscape:window-maximized="1"
      inkscape:window-y="0"
      inkscape:window-x="0"
-     inkscape:window-height="836"
-     inkscape:window-width="1600"
+     inkscape:window-height="704"
+     inkscape:window-width="1366"
      showgrid="false"
      inkscape:document-rotation="0"
      inkscape:current-layer="layer1"
      inkscape:document-units="mm"
-     inkscape:cy="696.09545"
-     inkscape:cx="193.70019"
-     inkscape:zoom="22.4"
+     inkscape:cy="426.40326"
+     inkscape:cx="195.42062"
+     inkscape:zoom="22.408002"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -64,97 +64,55 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1">
-    <rect
-       ry="0.44467828"
-       y="181.13446"
-       x="48.658695"
-       height="6.0926895"
-       width="6.0926895"
-       id="rect64"
-       style="opacity:0.755178;fill:#001c55;fill-opacity:0.997109;stroke-width:0.1" />
-    <text
+    <path
+       style="opacity:0.755178;fill:#001c55;fill-opacity:0.99710897;stroke-width:0.1"
+       d="m 49.103373,181.13446 h 5.203333 c 0.246352,0 0.444679,0.19833 0.444679,0.44468 v 5.20333 c 0,0.24635 -0.198327,0.44468 -0.444679,0.44468 h -5.203333 c -0.246351,0 -0.444678,-0.19833 -0.444678,-0.44468 v -5.20333 c 0,-0.24635 0.198327,-0.44468 0.444678,-0.44468 z"
+       id="rect64" />
+    <g
        transform="scale(0.26458333)"
-       id="text12"
-       y="472.60236"
-       x="186.2282"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000002;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       xml:space="preserve"><tspan
-         y="472.60236"
-         x="186.2282"
-         id="tspan10"
-         sodipodi:role="line"></tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000002;fill-opacity:1;stroke-width:0.99999899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="text12" />
+    <g
+       aria-label="basdasfd"
        transform="scale(0.26458333)"
-       id="text16"
-       y="606.15576"
-       x="238.67204"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000002;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       xml:space="preserve"><tspan
-         y="606.15576"
-         x="238.67204"
-         id="tspan14"
-         sodipodi:role="line">basdasfd</tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:192px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000002;fill-opacity:1;stroke-width:0.99999899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="text16" />
+    <g
+       aria-label="awefawefawefawefawe"
        transform="scale(0.26458333)"
-       id="text20"
-       y="850.91119"
-       x="252.92046"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000002;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       xml:space="preserve"><tspan
-         y="850.91119"
-         x="252.92046"
-         id="tspan18"
-         sodipodi:role="line">awefawefawefawefawe</tspan></text>
-    <text
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.8px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect24);shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000002;fill-opacity:1;stroke-width:0.264583;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       id="text22"
-       xml:space="preserve"><tspan
-         x="42.333984"
-         y="178.46749"><tspan
-           style="baseline-shift:baseline;shape-inside:url(#rect24);opacity:1;vector-effect:none;stop-color:#000000;stop-opacity:1">faewf</tspan></tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000002;fill-opacity:1;stroke-width:0.99999899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="text20" />
+    <g
+       aria-label="faewf"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50.79999924px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:pre;shape-inside:url(#rect24);shape-padding:0;opacity:1;vector-effect:none;fill:#000002;fill-opacity:1;stroke-width:0.26458299;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="text22" />
+    <g
+       aria-label="aawefawef"
        transform="scale(0.26458333)"
-       id="text30"
-       y="748.76093"
-       x="436.2955"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000002;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       xml:space="preserve"><tspan
-         y="748.76093"
-         x="436.2955"
-         id="tspan28"
-         sodipodi:role="line">aawefawef</tspan></text>
-    <text
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000002;fill-opacity:1;stroke-width:0.99999899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="text30" />
+    <g
+       aria-label="bb"
        transform="scale(0.26458333)"
-       id="text40"
-       y="159.58025"
-       x="160.1566"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;shape-margin:0;inline-size:0;opacity:1;vector-effect:none;fill:#000002;fill-opacity:1;stroke-width:0.999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
-       xml:space="preserve"><tspan
-         y="159.58025"
-         x="160.1566"
-         id="tspan38"
-         sodipodi:role="line">bb</tspan></text>
-    <text
-       id="text44"
-       y="186.51598"
-       x="49.376598"
-       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#ffffff;stroke-width:0.264583;stop-color:#000000;fill-opacity:1;"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583;fill:#ffffff;fill-opacity:1;"
-         y="186.51598"
-         x="49.376598"
-         id="tspan42"
-         sodipodi:role="line">b</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:6.35px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fafafa;stroke-width:0.264583;stop-color:#000000;fill-opacity:1;"
-       x="50.646717"
-       y="185.53117"
-       id="text44-1"><tspan
-         sodipodi:role="line"
-         id="tspan42-1"
-         x="50.646717"
-         y="185.53117"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;stroke-width:0.264583;fill:#fafafa;fill-opacity:1;">b</tspan></text>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:24px;line-height:1.25;font-family:'URW Chancery L';-inkscape-font-specification:'URW Chancery L';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east_asian:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#000002;fill-opacity:1;stroke-width:0.99999899;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="text40" />
+    <g
+       aria-label="b"
+       style="font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.26458299"
+       id="text44">
+      <path
+         d="m 50.290998,182.68058 v 1.7526 q 0.46355,-0.65405 1.143,-0.65405 0.57785,0 0.9779,0.4064 0.40005,0.4064 0.40005,0.99695 0,0.5969 -0.4064,1.016 -0.40005,0.4191 -0.97155,0.4191 -0.6985,0 -1.143,-0.6604 v 0.5588 h -0.60325 q -0.17145,0 -0.17145,-0.13335 0,-0.127 0.17145,-0.127 h 0.3429 v -3.3147 h -0.3429 q -0.17145,0 -0.17145,-0.13335 0,-0.127 0.17145,-0.127 z m 1.1303,1.3589 q -0.4699,0 -0.8001,0.33655 -0.3302,0.33655 -0.3302,0.81915 0,0.4826 0.3302,0.8255 0.3302,0.33655 0.8001,0.33655 0.46355,0 0.79375,-0.33655 0.33655,-0.33655 0.33655,-0.80645 0,-0.4953 -0.3302,-0.83185 -0.32385,-0.3429 -0.8001,-0.3429 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#ffffff;fill-opacity:1;stroke-width:0.26458299"
+         id="path4545" />
+    </g>
+    <g
+       aria-label="b"
+       style="font-size:6.3499999px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-decoration:none;text-decoration-line:none;text-decoration-color:#000000;letter-spacing:0px;word-spacing:0px;fill:#fafafa;fill-opacity:1;stroke-width:0.26458299"
+       id="text44-1">
+      <path
+         d="m 51.561117,181.69577 v 1.7526 q 0.46355,-0.65405 1.143,-0.65405 0.57785,0 0.9779,0.4064 0.40005,0.4064 0.40005,0.99695 0,0.5969 -0.4064,1.016 -0.40005,0.4191 -0.97155,0.4191 -0.6985,0 -1.143,-0.6604 v 0.5588 h -0.60325 q -0.17145,0 -0.17145,-0.13335 0,-0.127 0.17145,-0.127 h 0.3429 v -3.3147 h -0.3429 q -0.17145,0 -0.17145,-0.13335 0,-0.127 0.17145,-0.127 z m 1.1303,1.3589 q -0.4699,0 -0.8001,0.33655 -0.3302,0.33655 -0.3302,0.81915 0,0.4826 0.3302,0.8255 0.3302,0.33655 0.8001,0.33655 0.46355,0 0.79375,-0.33655 0.33655,-0.33655 0.33655,-0.80645 0,-0.4953 -0.3302,-0.83185 -0.32385,-0.3429 -0.8001,-0.3429 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:FreeMono;fill:#fafafa;fill-opacity:1;stroke-width:0.26458299"
+         id="path4548" />
+    </g>
   </g>
 </svg>
